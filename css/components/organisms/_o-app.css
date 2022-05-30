@@ -1,0 +1,9 @@
+.o-app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: var(--spacer-4);
+  background-color: var(--clr-neutral-900);
+  overflow: auto;
+}

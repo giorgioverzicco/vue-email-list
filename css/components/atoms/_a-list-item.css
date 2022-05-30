@@ -1,0 +1,9 @@
+.a-listItem {
+  padding: var(--spacer-3);
+  font-size: var(--fs-md);
+  font-weight: var(--fw-medium);
+  color: var(--clr-neutral-900);
+  background-color: var(--clr-neutral-100);
+  border-radius: var(--rounded-lg);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

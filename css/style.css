@@ -1,8 +1,6 @@
-/* =================
-  RESET
-================= */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+@import "./configs/_reset.css";
+@import "./configs/_theme.css";
+@import "./configs/_typo.css";
+@import "./configs/_vars.css";
+
+@import "./components/_components.css";
